@@ -6,7 +6,7 @@ The app gives you the possibility to watch the changes in the prices of cryptocu
 
 The purpose of this project was to develop an app for Android and iOS with the same codebase, and it could be possible thanks to the power of React Native, also it's a demonstration of my programming skills.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/McYAlZ0d4YU)
 
 # Development Environment
 
